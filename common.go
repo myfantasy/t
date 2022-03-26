@@ -1,7 +1,7 @@
 package t
 
 import (
-	"constraints"
+	"golang.org/x/exp/constraints"
 )
 
 type Number interface {
